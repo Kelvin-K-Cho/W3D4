@@ -1,0 +1,14 @@
+/* PUT FLUID GRID CODE HERE */
+body {
+  width: 65%;
+}
+
+aside {
+  width: 35%;
+}
+
+.cf:after {
+  content: '';
+  display: block;
+  clear: both;
+}
